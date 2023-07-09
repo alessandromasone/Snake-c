@@ -4,7 +4,9 @@ Benvenuti in Snake-C! Questo è un gioco del serpente realizzato in linguaggio C
 
 ## Trailer del Gioco
 
-[!Snake-C Trailer](trailer.mp4)
+https://github.com/alessandromasone/Snake-c/assets/102250754/eaa0b0d8-1159-4292-baae-12ba32c9a3de
+
+
 
 Unisciti all'emozione di Snake-C, un'esperienza classica con un tocco moderno. Sfida te stesso o un amico a una partita frenetica, cercando di ottenere il punteggio più alto. Preparati ad affrontare livelli di difficoltà crescenti e a mettere alla prova le tue abilità di movimento e strategia. Mangia i bocconi, evita gli ostacoli e diventa il miglior giocatore di Snake-C!
 
