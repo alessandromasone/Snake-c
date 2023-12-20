@@ -1,6 +1,6 @@
-# Snake-C
+# Snake c
 
-Benvenuti in Snake-C! Questo è un gioco del serpente realizzato in linguaggio C. Puoi sfidare te stesso o giocare in modalità multiplayer con un amico. Il tuo obiettivo è mangiare il maggior numero possibile di bocconi senza colpire i bordi del campo o il tuo stesso serpente.
+Benvenuti in Snake C! Questo è un gioco del serpente realizzato in linguaggio C. Puoi sfidare te stesso o giocare in modalità multiplayer con un amico. Il tuo obiettivo è mangiare il maggior numero possibile di bocconi senza colpire i bordi del campo o il tuo stesso serpente.
 
 ## Trailer del Gioco
 
