@@ -35,3 +35,7 @@ Segui questi passaggi per installare e giocare a Snake-C sul tuo computer:
 
 - Compilatore C compatibile con il linguaggio C.
 - Sistema operativo: Windows, macOS o Linux.
+
+## Licenza
+
+Distribuito sotto la **GNU General Public License v3.0**. Vedi il file [LICENSE](LICENSE) per maggiori dettagli.
